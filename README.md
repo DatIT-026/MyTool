@@ -19,6 +19,6 @@ Some software in the repository isn't excellent, however, I am trying my best to
 **A:** There's almost no password for the archive.
 
 **Q:** Where's the software you have collected?
-**A:** Everywhere!
+**A:** That's my tool. Some other software is collected everywhere!
 
 **DatIT, 2022**
