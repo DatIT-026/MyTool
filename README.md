@@ -19,7 +19,6 @@ This place contains our projects that were created in 2020. Some of them might b
 **A:** There's almost no password for the archive.
 
 **Q:** Where's the software you have collected?
-
-**A:** That's my tool. Some other software is collected everywhere!
+***A:*** That's my tool. Some other software is collected everywhere!
 
 **DatIT, 2023**
