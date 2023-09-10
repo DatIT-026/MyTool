@@ -5,7 +5,7 @@ This repository is one of the few software collections on GitHub. Contact me if 
 **We are not responsible for any damage caused by the software inside my repository and your negligence in general.**
 
 ### Table of contents
-1. [Introduction](#introduction)
+1. [Disclaimer](#disclaimer)
 2. [About](#about)
 3. [FAQ](#faq)
 
