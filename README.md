@@ -22,6 +22,6 @@ This place contains our projects that were created in 2020. Some of them might b
 **A:** That's all my tool. Some other software was collected everywhere!
 
 **Q:** Why Resolve Project was retired?  
-**A:** Check this out for more information: [https://www.facebook.com/hanguyentiendat2006/posts/682743393870946?ref=embed_post]here
+**A:** Check this out for more information: https://bom.so/QXdmRg
 
 **DatIT, 2023**
