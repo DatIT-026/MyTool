@@ -2,7 +2,7 @@
 ### Disclaimer
 This repository is one of the few software collections on GitHub. Contact me if you have any question about this.
 
-**I am not responsible for any damage caused by the software inside my repository and your negligence in general.**
+**We are not responsible for any damage caused by the software inside my repository and your negligence in general.**
 
 ### Table of contents
 1. [Introduction](#introduction)
@@ -10,7 +10,7 @@ This repository is one of the few software collections on GitHub. Contact me if 
 3. [FAQ](#faq)
 
 # About
-Some software in the repository isn't excellent, however, I am trying my best to convince you :smile:
+This place contains our projects that were created in 2020. Some of them might be retired and will be removed in the future. :smile:
 
 
 # FAQ
@@ -19,6 +19,7 @@ Some software in the repository isn't excellent, however, I am trying my best to
 **A:** There's almost no password for the archive.
 
 **Q:** Where's the software you have collected?
+
 **A:** That's my tool. Some other software is collected everywhere!
 
 **DatIT, 2023**
