@@ -1,6 +1,6 @@
 # My Tool Database
 ### Disclaimer
-This repository is one of the few software collections on GitHub. Contact me if you have any question about this.
+This repository is one of my few software collections on GitHub. Contact me if you have any question about this.
 
 **We are not responsible for any damage caused by the software inside my repository and your negligence in general.**
 
