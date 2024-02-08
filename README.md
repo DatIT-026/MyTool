@@ -2,7 +2,7 @@
 ### Disclaimer
 This repository is one of my few software collections on GitHub. Contact me if you have any question about this.
 
-**We are not responsible for any damage caused by the software inside my repository and your negligence in general.**
+**We are not responsible for any damage caused by the software inside the repository and your negligence in general.**
 
 ### Table of contents
 1. [Disclaimer](#disclaimer)
@@ -24,4 +24,4 @@ This place contains our projects that were created in 2020. Some of them might b
 **Q:** Why Resolve Project was retired?  
 **A:** Check this out for more information: https://bom.so/QXdmRg
 
-**DatIT, 2023**
+**DatIT, 2024**
